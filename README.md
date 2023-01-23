@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Gliphy
-- 👀 I’m interested in Money
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on Money making projects
 - 📫 How to reach me 0885231876
 
 <!---
